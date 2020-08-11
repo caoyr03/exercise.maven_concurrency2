@@ -27,14 +27,17 @@ public class MainApplication {
 //        threadZ.start();
 
         //Part 4
-        Thread4 threadX = new Thread4("Thread-1");
-        threadX.setPriority(Thread.MAX_PRIORITY);
-        Thread4 threadY = new Thread4("Thread-2");
-        threadY.setPriority(Thread.NORM_PRIORITY);
-        Thread4 threadZ = new Thread4("Thread-3");
-        threadZ.setPriority(Thread.MIN_PRIORITY);
-        threadX.start();
-        threadY.start();
-        threadZ.start();
+//        Thread4 threadX = new Thread4("Thread-1");
+//        threadX.setPriority(Thread.MAX_PRIORITY);
+//        Thread4 threadY = new Thread4("Thread-2");
+//        threadY.setPriority(Thread.NORM_PRIORITY);
+//        Thread4 threadZ = new Thread4("Thread-3");
+//        threadZ.setPriority(Thread.MIN_PRIORITY);
+//        threadX.start();
+//        threadY.start();
+//        threadZ.start();
+
+        //Part 5
+
     }
 }
